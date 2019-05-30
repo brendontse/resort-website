@@ -1,0 +1,17 @@
+.navbar {
+  text-align: center;
+  color:black;
+  border: 1px solid black;
+  background-color: white;
+  text-decoration: none;
+
+
+}
+
+a:link {
+  color: green;
+}
+
+.waterfall {
+  height: 50%;
+}
